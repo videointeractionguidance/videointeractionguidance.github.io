@@ -1,6 +1,6 @@
 ---
 # Leave the homepage title empty to use the site title
-title:
+title: 
 date: 2022-10-24
 type: landing
 
@@ -8,8 +8,8 @@ sections:
   - block: hero
     content:
       title: |
-        Wowchemy
-        Research Group
+        AVIG Data
+        Collection System
       image:
         filename: welcome.jpg
       text: |
