@@ -18,7 +18,7 @@ sections:
 
   - block: markdown
     content: 
-      title: ''
+      title: 'Why do we use this system?'
       text: |-
         - The system includes a meeting structure for you to follow flexibly with your clients.
         - This will help streamline your work by providing the questions and measures you need in one place.
@@ -47,25 +47,12 @@ sections:
         padding: ['20px', '0', '20px', '0']
       css_class: fullscreen
 
-  - block: collection
-    content:
-      title: Latest Preprints
-      text: ""
-      count: 5
-      filters:
-        folders:
-          - publication
-        publication_type: 'article'
-    design:
-      view: citation
-      columns: '1'
-
   - block: markdown
     content:
-      title:
-      subtitle:
+      title: 'All set?'
+      subtitle: 'Let's get started'
       text: |
-        {{% cta cta_link="./people/" cta_text="Meet the team →" %}}
+        {{% cta cta_link="./people/" cta_text="Input Data →" %}}
     design:
       columns: '1'
 ---
