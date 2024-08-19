@@ -35,22 +35,15 @@ sections:
     design:
       columns: '1'
       background:
-        image: 
-          filename: coders.jpg
-          filters:
-            brightness: 1
-          parallax: false
-          position: center
-          size: cover
-          text_color_light: true
+        color: '#777f93'
+        text_color_light: true
       spacing:
         padding: ['20px', '0', '20px', '0']
-      css_class: fullscreen
 
   - block: markdown
     content:
       title: 'All set?'
-      subtitle: 'Let's get started'
+      subtitle: 'Get started'
       text: |
         {{% cta cta_link="./people/" cta_text="Input Data →" %}}
     design:
