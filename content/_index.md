@@ -1,6 +1,6 @@
 ---
 # Leave the homepage title empty to use the site title
-title: 
+title: AVIG Data Collection System
 date: 2022-10-24
 type: landing
 
@@ -8,34 +8,25 @@ sections:
   - block: hero
     content:
       title: |
-        AVIG Data
-        Collection System
+        Welcome!
       image:
         filename: welcome.jpg
       text: |
         <br>
         
-        The **Wowchemy Research Group** has been a center of excellence for Artificial Intelligence research, teaching, and practice since its founding in 2016.
-  
-  - block: collection
-    content:
-      title: Latest News
-      subtitle:
-      text:
-      count: 5
-      filters:
-        author: ''
-        category: ''
-        exclude_featured: false
-        publication_type: ''
-        tag: ''
-      offset: 0
-      order: desc
-      page_type: post
+        This is the portal for VIG practitioners to record data from pre- and post-VIG meetings with clients. We also encourage practitioners to use this system for a 6 month follow up meeting. 
+
+  - block: markdown
+    content: 
+      title: ''
+      text: |-
+        - The system includes a meeting structure for you to follow flexibly with your clients.
+        - This will help streamline your work by providing the questions and measures you need in one place.
+        - This will enhance VIG practice and help you and clients get the most out of your meetings before and after VIG.
+        - The system will help us evaluate the effectiveness of VIG using anonymised data.
     design:
-      view: card
       columns: '1'
-  
+
   - block: markdown
     content:
       title:
