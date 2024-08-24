@@ -39,12 +39,11 @@ header:
     show_language: false
     show_theme_chooser: true
     show_search: true
-    highlight_active_link: false
+    highlight_active_link: true
     logo:
       # Logo text
       text: "VIG Data Collection System"
       # Logo filename in `assets/media/` folder
-      filename: "logo.svg"
 
 # Site footer
 

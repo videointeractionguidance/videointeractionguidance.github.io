@@ -10,7 +10,7 @@ sections:
       title: |
         Welcome!
       image:
-        filename: welcome.jpg
+        filename: welcome.png
       text: |
         <br>
         
