@@ -8,13 +8,16 @@ sections:
   - block: hero
     content:
       title: |
-        Welcome!
+        Welcome to the DCS
       image:
         filename: welcome.png
       text: |
         <br>
         
         This is the portal for VIG practitioners to record data from pre- and post-VIG meetings with clients. We also encourage practitioners to use this system for a 6 month follow up meeting. 
+
+        <br>
+        <br>
 
   - block: markdown
     content: 
