@@ -50,8 +50,7 @@ sections:
       text: |
         {{% cta cta_link="./people/" cta_text="Input Data →" %}}
     design:
-      columns: '1'
-       - block: cta-card
+      columns: '1'       
   - block: cta-card
     content:
       title: Enter some data
