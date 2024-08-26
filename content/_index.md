@@ -32,7 +32,8 @@ sections:
       text: ''
       items:
         - name: Flexible
-          icon: magnifying-glass
+          icon: routing-3
+          icon-pack: custom
           description: The system includes a meeting structure for you to follow flexibly with your clients.
         - name: Efficient
           icon: bolt
