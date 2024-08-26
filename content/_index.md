@@ -51,16 +51,4 @@ sections:
         {{% cta cta_link="./people/" cta_text="Input Data →" %}}
     design:
       columns: '1'       
-  - block: cta-card
-    content:
-      title: Enter some data
-      text: Find out how...
-      button:
-        text: Get Started
-        url: https://hugoblox.com/templates/
-    design:
-      card:
-        # Card background color (CSS class)
-        css_class: "bg-primary-700"
-        css_style: ""
 ---
