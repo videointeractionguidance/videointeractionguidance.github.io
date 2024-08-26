@@ -43,7 +43,7 @@ sections:
           icon: shield-keyhole
           icon_pack: custom
           description: Data are anonymised, securely stored with robust sharing controls.
-        -name: Non-Profit
+        - name: Non-Profit
           icon: kobo
           icon_pack: custom
           description: Our web form is powered by KoboToolbox. As a nonprofit organization, KoboToolbox is committed to making data collection accessible to everyone, everywhere.
