@@ -18,7 +18,6 @@ sections:
 
         <br>
         <br>
-
   - block: markdown
     content: 
       title: 'Why do we use this system?'
@@ -27,11 +26,10 @@ sections:
         - This will help streamline your work by providing the questions and measures you need in one place.
         - This will enhance VIG practice and help you and clients get the most out of your meetings before and after VIG.
         - The system will help us evaluate the effectiveness of VIG using anonymised data.
-
 - block: features
     id: features
     content:
-      title: Benefits of the DCS
+      title: 'Benefits of the DCS'
       text: ''
       items:
         - name: Flexible
@@ -46,7 +44,6 @@ sections:
         - name: Effectiveness
           icon: star
           description: The system will help us evaluate the effectiveness of VIG using anonymised data.
-
   - block: markdown
     content:
       title: 'All set?'
