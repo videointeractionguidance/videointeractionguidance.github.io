@@ -37,13 +37,19 @@ sections:
           description: The system includes a meeting structure for you to follow flexibly with your clients.
         - name: Efficient
           icon: bolt
+          icon_pack: custom
           description: This will help streamline your work by providing the questions and measures you need in one place.
         - name: Supportive
-          icon: sparkles
+          icon: hearts
           description: This will enhance VIG practice and help you and clients get the most out of your meetings before and after VIG.
         - name: Effectiveness
-          icon: star
+          icon: plot
+          icon_pack: custom
           description: The system will help us evaluate the effectiveness of VIG using anonymised data.
+        - name: Secure
+          icon: shield-keyhole
+          icon_pack: custom
+          description: Data are anonymised, securely stored with robust sharing controls.
   - block: markdown
     content:
       title: 'All set?'
