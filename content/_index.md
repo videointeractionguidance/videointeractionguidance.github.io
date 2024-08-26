@@ -26,10 +26,9 @@ sections:
         - This will help streamline your work by providing the questions and measures you need in one place.
         - This will enhance VIG practice and help you and clients get the most out of your meetings before and after VIG.
         - The system will help us evaluate the effectiveness of VIG using anonymised data.
-- block: features
-    id: features
+  - block: features
     content:
-      title: 'Benefits of the DCS'
+      title: 'Features'
       text: ''
       items:
         - name: Flexible
@@ -52,4 +51,17 @@ sections:
         {{% cta cta_link="./people/" cta_text="Input Data →" %}}
     design:
       columns: '1'
+       - block: cta-card
+  - block: cta-card
+    content:
+      title: Enter some data
+      text: Find out how...
+      button:
+        text: Get Started
+        url: https://hugoblox.com/templates/
+    design:
+      card:
+        # Card background color (CSS class)
+        css_class: "bg-primary-700"
+        css_style: ""
 ---
