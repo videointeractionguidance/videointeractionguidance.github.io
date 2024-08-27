@@ -7,7 +7,7 @@ image:
   placement: 1
   focal_point: 'Center'
   preview_only: false
-  filename: camera.png
+  #filename: camera.png
 ---
 
 <br>
