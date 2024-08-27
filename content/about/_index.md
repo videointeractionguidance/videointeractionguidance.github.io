@@ -1,5 +1,6 @@
 ---
 title: Video Interaction Guidance
+type: landing
 
 # Optional header image (relative to `assets/media/` folder).
 image:
@@ -14,11 +15,11 @@ image:
 
 ## What is VIG?
 
-Video Interaction Guidance (VIG) is an intervention through which a practitioner aims to enhance communication within relationships. It works by engaging clients actively in a process of change towards realising their own hopes for a better future in their relationships with others who are important to them.
+**Video Interaction Guidance (VIG)** is an intervention through which a practitioner aims to enhance communication within relationships. It works by engaging clients actively in a process of change towards realising their own hopes for a better future in their relationships with others who are important to them.
 
 Practitioners are guided by the values and beliefs around respect and empowerment. These include a belief that people in troubled situations want to change, a respect for what clients are managing to achieve in their current difficulties, and a conviction that the power and responsibility for change resides within clients and their situations. It is most typically used for interactions between children of any age and adults, either parents or professionals, although it can also be used within pairs (or even groups) of adults.
 
-![](assets/media/camera.png)
+![](/assets/media/camera.png)
 
 ## How is VIG delivered?
 

@@ -7,8 +7,8 @@ main:
   - name: About VIG
     url: about
     weight: 20
-  - name: People
-    url: people
+  - name: Resources
+    url: resources
     weight: 30
   - name: Events
     url: event
