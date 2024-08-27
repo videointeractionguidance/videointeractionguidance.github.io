@@ -19,7 +19,11 @@ image:
 
 Practitioners are guided by the values and beliefs around respect and empowerment. These include a belief that people in troubled situations want to change, a respect for what clients are managing to achieve in their current difficulties, and a conviction that the power and responsibility for change resides within clients and their situations. It is most typically used for interactions between children of any age and adults, either parents or professionals, although it can also be used within pairs (or even groups) of adults.
 
+<br>
+
 ![](/assets/media/camera.png)
+
+<br>
 
 ## How is VIG delivered?
 
