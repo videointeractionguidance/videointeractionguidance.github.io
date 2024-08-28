@@ -1,3 +1,7 @@
-{{<  myshortcode `This is some <b>HTML</b>,
-    and a new line with a "quoted string".` >}}
+{{ if .IsNamedParams }}
+  <img src="{{ .Get "src" }}" alt="">
+{{ else }}
+  <img src="{{ .Get 0 }}" alt="">
+{{ end }}
+
     
