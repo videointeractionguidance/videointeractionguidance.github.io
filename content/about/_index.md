@@ -5,7 +5,7 @@ type: landing
 # Optional header image (relative to `assets/media/` folder).
 image:
   placement: 1
-  focal_point: 'Center'
+  focal_point: 'center'
   preview_only: false
   filename: camera.png
 ---
