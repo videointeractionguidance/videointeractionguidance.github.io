@@ -1,6 +1,5 @@
 ---
 title: Video Interaction Guidance
-type: landing
 
 # Optional header image (relative to `assets/media/` folder).
 image:
