@@ -29,4 +29,4 @@ Practitioners are guided by the values and beliefs around respect and empowermen
 
 Please use the button below to access additional resources to introduce VIG to your client.
 
-{{< myshortcode "camera.png>}}
+{{< myshortcode "camera.png">}}
