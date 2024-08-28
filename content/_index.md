@@ -24,7 +24,7 @@ sections:
       text: ''
       items:
         - name: Flexible
-          icon: routing-3
+          icon: {{< figure src="routing-3" caption="test" theme="light" >}} 
           icon_pack: custom
           description: The system includes a meeting structure for you to follow flexibly with your clients.
         - name: Efficient

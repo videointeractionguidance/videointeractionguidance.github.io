@@ -1,6 +1,6 @@
 ---
 title: Video Interaction Guidance
-
+date: ''
 # Optional header image (relative to `assets/media/` folder).
 image:
   placement: 1

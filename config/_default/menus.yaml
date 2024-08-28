@@ -10,8 +10,8 @@ main:
   - name: Resources
     url: resources
     weight: 30
-  - name: Events
-    url: event
+  - name: Input Data
+    url: input
     weight: 40
   - name: Publications
     url: publication
