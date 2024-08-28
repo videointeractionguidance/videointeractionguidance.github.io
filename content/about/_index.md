@@ -28,3 +28,5 @@ Practitioners are guided by the values and beliefs around respect and empowermen
 - We will then celebrate your success and make further goals for change.
 
 Please use the button below to access additional resources to introduce VIG to your client.
+
+{{< myshortcode >}}
