@@ -31,8 +31,7 @@ Practitioners are guided by the values and beliefs around respect and empowermen
 
 Check out the additional resources page to introduce VIG to your clients
 
-{{% cta cta_link="./resources/" cta_text="Input Data →" %}}
+{{% cta cta_link="./resources/" cta_text="Input Data" %}}
 
-Please use the button below to access additional resources to introduce VIG to your client.
 
-{{< myshortcode "camera.png" >}}
+{{< icon name="devicon/bash" >}}
