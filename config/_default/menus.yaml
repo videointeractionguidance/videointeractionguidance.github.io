@@ -13,8 +13,8 @@ main:
   - name: Input Data
     url: input
     weight: 40
-  - name: Publications
-    url: publication
+  - name: Consent
+    url: consent
     weight: 50
   - name: Contact
     url: contact
