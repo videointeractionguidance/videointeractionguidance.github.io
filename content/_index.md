@@ -50,9 +50,9 @@ sections:
   - block: markdown
     content:
       title: 'All set?'
-      subtitle: 'Get started'
+      subtitle: ''
       text: |
-        {{% cta cta_link="./people/" cta_text="Input Data →" %}}
+        {{% cta cta_link="./input/" cta_text="Input Data →" %}}
     design:
       columns: '1'       
 ---

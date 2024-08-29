@@ -27,6 +27,12 @@ Practitioners are guided by the values and beliefs around respect and empowermen
 - After we have completed all of our shared review sessions, we will have another general conversation as we did during our first meeting. We also might ask you to complete the same questionnaires again.
 - We will then celebrate your success and make further goals for change.
 
+## Resources
+
+Check out the additional resources page to introduce VIG to your client
+
+{(% cta cta_link="./resources/" cta_text="Input Data →" %}}
+
 Please use the button below to access additional resources to introduce VIG to your client.
 
-{{< myshortcode src="./assets/media/camera.png">}}
+{{< myshortcode src="camera.png" >}}
