@@ -1,6 +1,6 @@
 ---
 title: Video Interaction Guidance
-date: ''
+show_date: false
 # Optional header image (relative to `assets/media/` folder).
 image:
   placement: 1
@@ -29,4 +29,4 @@ Practitioners are guided by the values and beliefs around respect and empowermen
 
 Please use the button below to access additional resources to introduce VIG to your client.
 
-{{< myshortcode "camera.png">}}
+{{< myshortcode src="./assets/media/camera.png">}}
