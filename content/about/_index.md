@@ -33,5 +33,4 @@ Check out the additional resources page to introduce VIG to your clients
 
 {{% cta cta_link="./resources/" cta_text="Input Data" %}}
 
-
 {{< icon name="devicon/bash" >}}
