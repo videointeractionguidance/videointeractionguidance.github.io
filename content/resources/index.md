@@ -1,17 +1,11 @@
 ---
-title: VIG Resources
-type: landing
+title: Publications
 
-sections:
-  - block: collection
-    content:
-      title: Resources
-      text: ''
-      filters:
-        folders:
-          - publication
-        exclude_featured: true
-    design:
-      columns: '1'
-      view: citation
+# Listing view
+view: citation
+
+# Optional banner image (relative to `assets/media/` folder).
+banner:
+  caption: ''
+  image: ''
 ---
