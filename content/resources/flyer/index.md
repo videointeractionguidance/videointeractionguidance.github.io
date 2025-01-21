@@ -1,5 +1,5 @@
 ---
-title: 'Introductory Flyer'
+title: 'Video Interaction Guidance Introductory Flyer'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
