@@ -19,7 +19,11 @@ image:
 
 ## All set?
 
-Click to head to KoboToolbox
+Click to head to to the DCS form
 
 {{< cta cta_text="Input Data" cta_link="https://ee-eu.kobotoolbox.org/x/NR8fGEhL" cta_new_tab="false" >}}
 
+
+## Testing
+
+If you would first like to test the form please [contact us](/contact)
