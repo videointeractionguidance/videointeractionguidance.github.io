@@ -4,7 +4,7 @@
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 title: VIG Data Collection System # Website name
-baseURL: 'www.videointeractionguidance.github.io/dcs'
+baseURL: 'www.videointeractionguidance.github.io'
 
 ############################
 ## LANGUAGE
