@@ -27,4 +27,6 @@ You can download a copy of the client consent form here:
 
 Client consent forms should be kept according to your organisation's policies and procedures.
 
-{{ .Site.BaseURL }}
+{{% .Site.BaseURL %}}
+
+lll
