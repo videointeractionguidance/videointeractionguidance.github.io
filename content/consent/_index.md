@@ -26,5 +26,3 @@ You can download a copy of the client consent form here:
 {{% cta cta_link="pdf/flyer.pdf" cta_text="Client Consent" %}}
 
 Client consent forms should be kept according to your organisation's policies and procedures.
-
-{{% baseURL %}}
