@@ -25,13 +25,9 @@ You can read the terms and conditions when you complete the consent form. You ca
 You can download a copy of the client consent form here:
 {{% cta cta_link="/pdf/flyer.pdf" cta_text="Client Consent" %}}
 
-{{% cta cta_link="/static/uploads/flyer.pdf" cta_text="Client Consent" %}}
+[test](videointeractionguidance.net/pdf/flyer.pdf)
 
-{{% cta cta_link="flyer.pdf" cta_text="Client Consent" %}}
-
-
-[test](videointeractionguidance.net/static/uploads/flyer.pdf)
-
+[test](videointeractionguidance.net/uploads/flyer.pdf)
 
 Client consent forms should be kept according to your organisation's policies and procedures.
 
