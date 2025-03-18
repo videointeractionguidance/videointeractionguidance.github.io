@@ -11,7 +11,7 @@ sections:
       text: |-
         Please reach contact the dcs email address or post a message in the DCS group on the learning platform. The email address isn't manned every day so please bear with us. We aim to respond within a week. 
       email: dcs@videointeractionguidance.net
-      webpage: https://learnvig.matrixlms.eu/
+      address: https://learnvig.matrixlms.eu/
       coordinates:
         latitude:
         longitude:
