@@ -14,7 +14,7 @@ sections:
       text: |
         <br>
         
-        This is the portal for VIG practitioners to record data from pre- and post-VIG meetings with clients. We also encourage practitioners to use this system for a 6 month follow up meeting. 
+        This is the portal for VIG practitioners to record data from time one, time two and optional 6 month follow up VIG meetings with clients.
 
         <br>
         <br>
@@ -56,6 +56,3 @@ sections:
     design:
       columns: '1'       
 ---
-
-
-<a href="https://storyset.com/phone">Illustrations by Storyset</a>

@@ -9,22 +9,15 @@ sections:
     content:
       title: Contact
       text: |-
-        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer tempus augue non tempor egestas. Proin nisl nunc, dignissim in accumsan dapibus, auctor ullamcorper neque. Quisque at elit felis. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Aenean eget elementum odio. Cras interdum eget risus sit amet aliquet. In volutpat, nisl ut fringilla dignissim, arcu nisl suscipit ante, at accumsan sapien nisl eu eros.
+        Please reach contact the dcs email address or post a message in the DCS group on the learning platform. The email address isn't manned every day so please bear with us. We aim to respond within a week. 
       email: dcs@videointeractionguidance.net
-      address:
-        street:
-        city:
-        region:
-        postcode:
-        country:
-        country_code:
+      webpage: https://learnvig.matrixlms.eu/
       coordinates:
         latitude:
         longitude:
       directions:
       office_hours:
-        - 'Monday 10:00 to 13:00'
-        - 'Wednesday 09:00 to 10:00'
+        - 'Monday to Friday 09:00 to 17:00'
       #contact_links:
       #  - icon: comments
       #    icon_pack: fas
@@ -43,7 +36,7 @@ sections:
       columns: '1'
       background:
         image: 
-          filename: contact.jpg
+          filename: contact.svg
           filters:
             brightness: 1
           parallax: false
