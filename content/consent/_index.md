@@ -8,8 +8,10 @@ banner:
   image: ''
 ---
 
-Practitioners must sign an electronic consent form and terms and conditions. You only need to do this once. 
+Practitioners must read the terms and conditions of use and then sign an electronic consent form. You only need to do this once. 
 Each new client should complete a client consent form before you record their responses electronically.
+
+<br>
 
 ## Practiioner Terms and Conditions of Use
 
