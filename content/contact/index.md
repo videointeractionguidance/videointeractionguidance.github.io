@@ -9,7 +9,7 @@ sections:
     content:
       title: Contact
       text: |-
-         If you have questions about accessing the DCS, would like to arrange an demo for you or your information governance teams, or need support, please write to us using the DCS email address or post a message in the DCS group on the [learning platform](https://learnvig.matrixlms.eu/). The email address isn't checked every day so please bear with us. We aim to respond within one week. 
+         If you have questions about accessing the DCS, would like to arrange a demo for you or your information governance teams, or need support, please write to us using the DCS email address or post a message in the DCS group on the [learning platform](https://learnvig.matrixlms.eu/). The email address isn't checked every day so please bear with us. We aim to respond within one week. 
       email: dcs@videointeractionguidance.net
       address:
         street:
