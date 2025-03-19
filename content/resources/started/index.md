@@ -1,4 +1,4 @@
 ---
 title: Getting Started Infographic
-external_link: /static/get_started.pdf
+external_link: /uploads/get_started.pdf
 ---
