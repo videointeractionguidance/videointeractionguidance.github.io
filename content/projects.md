@@ -1,6 +1,4 @@
 ---
-title: XXXX
-date: 
 type: landing
 
 design:
@@ -11,13 +9,15 @@ design:
 sections:
   - block: collection
     content:
-      title: YYYY
+      title:
       text: I enjoy making things. Here are a selection of projects that I have worked on over the years.
       filters:
         folders:
           - resources
     design:
-      view: compact
+      view: article-grid
       fill_image: false
       columns: 3
 ---
+
+<br>
