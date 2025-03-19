@@ -1,5 +1,5 @@
 ---
-title: 'XXXX'
+title: XXXX
 date: 
 type: landing
 
@@ -11,7 +11,7 @@ design:
 sections:
   - block: collection
     content:
-      title:
+      title: YYYY
       text: I enjoy making things. Here are a selection of projects that I have worked on over the years.
       filters:
         folders:
