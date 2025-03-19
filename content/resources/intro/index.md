@@ -1,7 +1,6 @@
 ---
 title: Introductory Flyer
-date:
-external_link: flyer.pdf
+external_link: /uploads/flyer.pdf
 tags:
 ---
 

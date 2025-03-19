@@ -7,7 +7,7 @@ image:
   placement: 1
   focal_point: 'center'
   preview_only: false
-  filename: data.png
+  filename:
 ---
 
 ## Before Inputting Data
