@@ -1,5 +1,5 @@
 ---
-title: 'Resources'
+title: 'Get Started Resources'
 date: 
 type: landing
 
@@ -17,7 +17,7 @@ sections:
         folders:
           - resources
     design:
-      view: compact
+      view: list
       fill_image: false
       columns: 3
 ---
