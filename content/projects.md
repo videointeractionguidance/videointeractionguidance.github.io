@@ -3,7 +3,7 @@ type: landing
 
 design:
   # Section spacing
-  spacing: '5rem'
+  spacing: '2.5rem'
 
 # Page sections
 sections:
@@ -15,7 +15,7 @@ sections:
         folders:
           - resources
     design:
-      view: article-grid
+      view: list
       fill_image: false
       columns: 3
 ---
