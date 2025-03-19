@@ -1,13 +1,10 @@
 ---
-title: Pandas
-date: 2023-10-26
-external_link: https://github.com/pandas-dev/pandas
+title: Introductory Flyer
+date:
+external_link: flyer.pdf
 tags:
-  - Hugo
-  - Wowchemy
-  - Markdown
 ---
 
-Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures.
+An overview of VIG designed by AVIGuk for practitioners to introduce VIG to their clients
 
 <!--more-->
