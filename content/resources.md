@@ -1,5 +1,5 @@
 ---
-title: 'Get Started Resources'
+title: 'XXXX'
 date: 
 type: landing
 
@@ -11,13 +11,13 @@ design:
 sections:
   - block: collection
     content:
-      title: Useful Resources
+      title:
       text: I enjoy making things. Here are a selection of projects that I have worked on over the years.
       filters:
         folders:
           - resources
     design:
-      view: list
+      view: compact
       fill_image: false
       columns: 3
 ---
