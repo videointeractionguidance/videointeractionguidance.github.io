@@ -7,7 +7,7 @@ image:
   placement: 1
   focal_point: 'center'
   preview_only: false
-  filename: data.png
+  filename: data.svg
 ---
 
 ## Before Inputting Data
