@@ -1,6 +1,6 @@
 ---
 title: 'Resources'
-date: 2024-05-19
+date: 
 type: landing
 
 design:
@@ -11,13 +11,13 @@ design:
 sections:
   - block: collection
     content:
-      title: Selected Projects
+      title: Resources
       text: I enjoy making things. Here are a selection of projects that I have worked on over the years.
       filters:
         folders:
           - resources
     design:
-      view: article-grid
+      view: compact
       fill_image: false
       columns: 3
 ---
