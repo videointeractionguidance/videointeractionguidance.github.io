@@ -1,13 +1,13 @@
 ---
-title: Getting Started Infographic
-external_link: /uploads/get_started.pdf
+title: 
+external_link: ''
 show_date: false
 url_code: ''
-url_pdf: '/uploads/get_started.pdf'
+url_pdf: ''
 url_slides: ''
 url_video: ''
 
-weight: 2
+weight: 4
 
 design:
   spacing:
@@ -15,4 +15,5 @@ design:
     padding: ['20px', '0', '20px', '0']
 ---
 
-A handy inforgraphic explaining how to get started with VIG DCS.
+
+{{< youtube kYpzIf2mgKg >}}
