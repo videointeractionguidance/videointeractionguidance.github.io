@@ -15,6 +15,14 @@ sections:
       text: |-
         <br>
         <br>
+        You might have been sent to this page by a practitioner you are working with and who believes VIG might be suitable for you.
+
+        <br>
+
+        Please use the resources below to find out more about VIG, how it works, and how it might help you or your child. If you have any questions or would like to find out more please contact your VIG practitioner.
+
+        <br>
+        
       filters:
         folders:
           - resources
@@ -24,7 +32,7 @@ sections:
     content:
       title: Videos
       text: |-
-      
+
         <br>
 
         #### This video was co-created by Specialist Health Visitors in South Warwickshire NHS Foundation Trust and Coventry and Warwickshire parents, who share their first-hand experiences of VIG. 
