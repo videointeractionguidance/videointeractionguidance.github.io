@@ -2,6 +2,10 @@
 title: Resources
 type: landing
 
+design:
+  # Section spacing
+  spacing: '1rem'
+
 sections:
   - block: collection
     content:
