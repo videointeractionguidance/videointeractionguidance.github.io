@@ -9,8 +9,9 @@ image:
   preview_only: false
   filename:
 ---
-
-## Before Inputting Data
+{{% callout note %}}
+Befor Inputting Data
+{{% /callout %}}
 
 1. It is essential that you first have contact with AVIGuk. You will need to complete some self-directed training and your organisation will need to agree to you using the system.
 2. Please make sure both you and your client have signed a consent form. You can find these on the 'Consent Forms' tab (the practitioner signs an electronic copy and the client signs a paper copy in line with your organisations' policies and procedures).
@@ -19,7 +20,7 @@ image:
 
 ## All set?
 
-Click to head to to the DCS form
+Click below to go to the form:
 
 {{< cta cta_text="Input Data" cta_link="https://ee-eu.kobotoolbox.org/x/NR8fGEhL" cta_new_tab="false" >}}
 

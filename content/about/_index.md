@@ -17,7 +17,7 @@ Practitioners are guided by the values and beliefs around respect and empowermen
 
 ## How is VIG delivered?
 
->Video Interaction Guidance is an intervention where you will be guided to reflect on video clips of your own successful interactions.
+Video Interaction Guidance is an intervention where you will be guided to reflect on video clips of your own successful interactions.
 
 - Before we take any recordings, we will have a general discussion during our initial meeting about you, your child, and your relationship. We will make some notes together using this electronic system. We may ask you to fill out some questionnaires electronically.
 - During our discussions, we will negotiate your own goals and ask you what you want to change.
@@ -31,6 +31,5 @@ Practitioners are guided by the values and beliefs around respect and empowermen
 
 Check out the additional resources page to introduce VIG to your clients
 
-{{% cta cta_link="./resources/" cta_text="Input Data" %}}
+{{% cta cta_link="./resources/" cta_text="Resources" %}}
 
-{{< icon name="devicon/bash" >}}

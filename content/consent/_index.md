@@ -23,7 +23,7 @@ You can read the terms and conditions when you complete the consent form. You ca
 ## Practitioner Consent Form
 
 Follow this link to complete the online consent form: 
-{{% cta cta_link="./resources/" cta_text="Practitioner Consent" %}}
+{{% cta cta_link="https://ee-eu.kobotoolbox.org/x/4p5kxKet" cta_text="Practitioner Consent" %}}
 
 
 ## Client Consent Form

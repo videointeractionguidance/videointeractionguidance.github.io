@@ -14,7 +14,7 @@ sections:
       text: |
         <br>
         
-        This is the portal for VIG practitioners to record data from time one, time two and optional 6 month follow up VIG meetings with clients.
+        This is the portal for VIG practitioners to record data from time one, time two and optional 6 month follow up VIG meetings with clients. You'll also find resources to help introduce clients to VIG.
 
         <br>
         <br>

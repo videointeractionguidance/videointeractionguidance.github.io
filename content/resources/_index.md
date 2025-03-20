@@ -16,11 +16,8 @@ sections:
       text: |-
         <br>
         <br>
-        You might have been sent to this page by a practitioner you are working with and who believes VIG might be suitable for you.
-
-        <br>
-
-        Please use the resources below to find out more about VIG, how it works, and how it might help you or your child. If you have any questions or would like to find out more please contact your VIG practitioner.
+        
+        If you are a client, please use the resources below to find out more about VIG, how it works, and how it might help you and your child. If you are a practitioner please share these resources with your clients.
 
         <br>
 
