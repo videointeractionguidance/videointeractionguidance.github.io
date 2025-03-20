@@ -12,7 +12,7 @@ weight: 3
 design:
   spacing:
     # Customize the section spacing. Order is top, right, bottom, left.
-    padding: ['20px', '0', '20px', '0']
+    padding: ['10px', '0', '10px', '0']
 ---
 
 This leaflet was created by Specialist Health Visitors in South Warwickshire Foudation Trust to give an overview of VIG for their clients and families.

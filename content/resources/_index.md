@@ -5,7 +5,7 @@ type: landing
 design:
   spacing:
     # Customize the section spacing. Order is top, right, bottom, left.
-    padding: ['20px', '0', '20px', '0']
+    padding: ['10px', '0', '10px', '0']
 
 sections:
   - block: collection
@@ -18,6 +18,9 @@ sections:
         folders:
           - resources
         exclude_featured: true
+  - block: markdown
+    content:
+      title: Videos
+      text: |-
+      {{< youtube kYpzIf2mgKg >}}
 ---
-
-Can I put other stuff here????
