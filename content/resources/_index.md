@@ -9,6 +9,7 @@ design:
 
 sections:
   - block: collection
+    id: section-1
     content:
       title: Resources
       text: |-
@@ -19,6 +20,7 @@ sections:
           - resources
         exclude_featured: true
   - block: markdown
+    id: section-2
     content:
       title: Videos
       text: |-
