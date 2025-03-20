@@ -1,20 +1,21 @@
 ---
-title: XXX
+title: Resources
 type: landing
 show_date:  false
+
+show_date: false
 
 sections:
   - block: collection
     content:
-      title: YYY
+      title: Resources
       text: |-
-        {{% callout note %}}
-        Quickly discover relevant content by [filtering publications](./publication/).
-        {{% /callout %}}
+        <br>
+        <br>
       filters:
         folders:
           - resources
         exclude_featured: true
 ---
 
-# Testing the proj page
+## test h2 heading
