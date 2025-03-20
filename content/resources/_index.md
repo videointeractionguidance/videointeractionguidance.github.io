@@ -11,6 +11,7 @@ sections:
   - block: collection
     id: section-1
     content:
+      count: 8
       title: Resources
       text: |-
         <br>
@@ -22,7 +23,7 @@ sections:
         Please use the resources below to find out more about VIG, how it works, and how it might help you or your child. If you have any questions or would like to find out more please contact your VIG practitioner.
 
         <br>
-        
+
       filters:
         folders:
           - resources
