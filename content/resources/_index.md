@@ -1,9 +1,6 @@
 ---
 title: Resources
 type: landing
-show_date:  false
-
-show_date: false
 
 sections:
   - block: collection

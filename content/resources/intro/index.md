@@ -1,11 +1,7 @@
 ---
 title: Introductory Flyer
-external_link: ''
-links:
-  - icon: twitter
-    icon_pack: fab
-    name: Follow
-    url: https://twitter.com/georgecushen
+external_link: '/uploads/flyer.pdf'
+show_date: false
 url_code: ''
 url_pdf: '/uploads/flyer.pdf'
 url_slides: ''
