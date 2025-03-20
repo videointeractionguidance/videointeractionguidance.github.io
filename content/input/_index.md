@@ -9,8 +9,11 @@ image:
   preview_only: false
   filename:
 ---
+
+<br>
+
 {{% callout note %}}
-Befor Inputting Data
+Before Inputting Data
 {{% /callout %}}
 
 1. It is essential that you first have contact with AVIGuk. You will need to complete some self-directed training and your organisation will need to agree to you using the system.
