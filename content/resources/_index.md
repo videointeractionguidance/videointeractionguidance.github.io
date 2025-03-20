@@ -24,5 +24,5 @@ sections:
     content:
       title: Videos
       text: |-
-      {{< youtube kYpzIf2mgKg >}}
+       {{< youtube kYpzIf2mgKg >}}
 ---
