@@ -12,7 +12,7 @@ Each new client should complete a client consent form before you record their re
 
 You can read the terms and conditions when you complete the consent form. You can also download a copy here:
 
-{{% cta cta_link="./resources/" cta_text="Terms and Conditions" %}}
+{{% cta cta_link="/uploads/dcs_terms.pdf" cta_text="Terms and Conditions" %}}
 
 
 ## Practitioner Consent Form
@@ -24,7 +24,7 @@ Follow this link to complete the online consent form:
 ## Client Consent Form
 
 You can download a copy of the client consent form here:
-{{% cta cta_link="/pdf/flyer.pdf" cta_text="Client Consent" %}}
+{{% cta cta_link="/uploads/dcs_consent_form_client.pdf" cta_text="Client Consent" %}}
 
 
 Client consent forms should be kept according to your organisation's policies and procedures.
