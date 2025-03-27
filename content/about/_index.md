@@ -27,9 +27,11 @@ Video Interaction Guidance is an intervention where you will be guided to reflec
 - After we have completed all of our shared review sessions, we will have another general conversation as we did during our first meeting. We also might ask you to complete the same questionnaires again.
 - We will then celebrate your success and make further goals for change.
 
+<br>
+
 ## Resources
 
 Check out the additional resources page to introduce VIG to your clients
 
-{{% cta cta_link="./resources/" cta_text="Resources" %}}
+{{% cta cta_link="/resources/" cta_text="Resources" %}}
 
