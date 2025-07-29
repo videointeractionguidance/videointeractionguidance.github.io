@@ -1,6 +1,7 @@
 ---
-title: Resources
+title: Video Interaction Guidance
 type: landing
+show_date: false
 
 image:
   placement: 1
