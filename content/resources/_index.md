@@ -1,17 +1,12 @@
 ---
 title: Resources
-type: pages
+type: landing
 
 image:
   placement: 1
   focal_point: 'center'
   preview_only: false
   filename: camera.png
-
-design:
-  spacing:
-    # Customize the section spacing. Order is top, right, bottom, left.
-    padding: ['10px', '0', '10px', '0']
 
 sections:
   - block: markdown
