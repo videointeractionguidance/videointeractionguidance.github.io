@@ -15,7 +15,6 @@ sections:
     content:
       title: Video Interaction Guidance
       text: |-
-        ![Alt text]()
         ## What is VIG?
         **Video Interaction Guidance (VIG)** is an intervention through which a practitioner aims to enhance communication within relationships. It works by engaging clients actively in a process of change towards realising their own hopes for a better future in their relationships with others who are important to them.
 
