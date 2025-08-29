@@ -3,6 +3,10 @@ title: Video Interaction Guidance
 type: landing
 show_date: false
 
+image:
+  filename: camera.png
+  preview_only: true
+
 sections:
   - block: hero
     id: hero
