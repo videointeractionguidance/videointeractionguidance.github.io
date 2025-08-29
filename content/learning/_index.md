@@ -10,9 +10,6 @@ sections:
       text: |-
 
         <img src="/media/camera.png" class="centre">
-
-    design:
-      placement: 2
   
   - block: markdown
     id: section-1
