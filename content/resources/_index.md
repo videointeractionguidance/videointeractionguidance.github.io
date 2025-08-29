@@ -11,7 +11,7 @@ sections:
       title: Video Interaction Guidance
       text: |-
 
-        <img src="assets/media/camera.png" alt="VIG Header" style="display: block; margin: 0 auto; max-width: 100%;">
+        ![VIG header](camera.png)
 
         ## What is VIG?
         **Video Interaction Guidance (VIG)** is an intervention through which a practitioner aims to enhance communication within relationships. It works by engaging clients actively in a process of change towards realising their own hopes for a better future in their relationships with others who are important to them.
