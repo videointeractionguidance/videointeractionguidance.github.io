@@ -3,9 +3,21 @@ title: Video Interaction Guidance
 type: landing
 show_date: false
 
-
 sections:
   - block: hero
+    id: hero
+    content:
+      title: Video Interaction Guidance
+      text: >-
+        Enhancing communication within relationships through reflective video guidance.
+    design:
+      width: narrow
+      align: center
+      background:
+        image: camera.png
+        image_darken: 0.3
+        image_parallax: false
+  - block: markdown
     id: section-1
     content:
       title: Video Interaction Guidance
@@ -27,11 +39,6 @@ sections:
         - After we have completed all of our shared review sessions, we will have another general conversation as we did during our first meeting. We also might ask you to complete the same questionnaires again.
         - We will then celebrate your success and make further goals for change.
         <br>
-    design:
-      background:
-        image: camera.png
-        image_darken: 0.3
-        image_parallax: false
   - block: collection
     id: section-2
     content:
