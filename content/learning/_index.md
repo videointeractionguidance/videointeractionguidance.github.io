@@ -9,7 +9,7 @@ sections:
       title: Data Collection System
       text: |-
         
-        {{< figure src=camera.png >}}
+        {{< figure src=learning.png >}}
 
     design:
       placement: 2

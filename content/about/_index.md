@@ -9,7 +9,7 @@ sections:
       title: Video Interaction Guidance
       text: |-
 
-        <img src="/assets/media/camera.png" class="centre">
+        {{< figure src=camera.png >}}
 
     design:
       placement: 2
