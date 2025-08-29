@@ -7,7 +7,7 @@ image:
   placement: 1
   focal_point: 'center'
   preview_only: false
-  filename: camera.png
+  filename: assets/media/camera.png
 
 sections:
   - block: markdown
