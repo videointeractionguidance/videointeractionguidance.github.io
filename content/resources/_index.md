@@ -11,6 +11,7 @@ sections:
 
         <img src="/media/camera.png" class="centre">
 
+
     design:
       placement: 1
       focal_point: 'Center'
