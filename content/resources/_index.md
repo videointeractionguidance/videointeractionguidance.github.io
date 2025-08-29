@@ -32,8 +32,6 @@ sections:
         image: camera.png
         image_darken: 0.3
         image_parallax: false
-      align: center
-      width: narrow
   - block: collection
     id: section-2
     content:
