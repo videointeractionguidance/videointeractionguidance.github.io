@@ -3,13 +3,18 @@ title: Video Interaction Guidance
 type: landing
 show_date: false
 
-image:
-  placement: 1
-  focal_point: 'center'
-  preview_only: false
-  filename: camera.png
 
 sections:
+  - block: hero
+    id: hero-section
+    content:
+      title: Video Interaction Guidance
+    design:
+      background:
+        image:
+          filename: camera.png
+          placement: center
+        text_color_light: false
   - block: markdown
     id: section-1
     content:
