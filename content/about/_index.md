@@ -9,8 +9,8 @@ sections:
       title: Video Interaction Guidance
       text: |-
 
-        <img src="/media/camera.png" class="centre">
-        
+        <img src="/assets/media/camera.png" class="centre">
+
     design:
       placement: 2
   
