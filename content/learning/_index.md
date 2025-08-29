@@ -8,8 +8,9 @@ sections:
     content:
       title: Data Collection System
       text: |-
-
+        {{< raw >}}
         <img src="/assets/media/camera.png" class="centre">
+        {{< /raw >}}
 
     design:
       placement: 2
