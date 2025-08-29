@@ -9,7 +9,7 @@ sections:
       title: Video Interaction Guidance
       text: |-
 
-        <p style="text-align: center"><img src="/media/camera.png"></p>
+        <img src="/media/camera.png" class="centre">
 
     design:
       placement: 1
