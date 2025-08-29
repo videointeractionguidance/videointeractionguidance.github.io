@@ -10,7 +10,7 @@ sections:
       title: Video Interaction Guidance
       text: '![VIG Header](camera.png)'
     design:
-      css_style: 'text-align: center;'
+      focal_point: 'Center'
   - block: markdown
     id: section-1
     content:
