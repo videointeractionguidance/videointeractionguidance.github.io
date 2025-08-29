@@ -13,7 +13,6 @@ sections:
 
     design:
       placement: 2
-  
   - block: markdown
     id: section-1
     content:
@@ -47,8 +46,7 @@ sections:
       title: Resources
       text: |-
         <br>
-        <br>
-        
+
         If you are a client, please use the resources below to find out more about VIG, how it works, and how it might help you and your child. If you are a practitioner please share these resources with your clients.
 
         <br>
