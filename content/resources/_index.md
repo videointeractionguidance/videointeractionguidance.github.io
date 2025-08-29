@@ -18,7 +18,8 @@ sections:
       width: narrow
       align: center
       background:
-        image: camera.png
+        image:
+          filename: camera.png
         image_darken: 0.3
         image_parallax: false
   - block: markdown
