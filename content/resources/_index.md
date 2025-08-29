@@ -10,12 +10,6 @@ image:
   filename: camera.png
 
 sections:
-  - block: hero
-    id: hero
-    content:
-      title: Video Interaction Guidance
-      text: >-
-        
   - block: markdown
     id: section-1
     content:
