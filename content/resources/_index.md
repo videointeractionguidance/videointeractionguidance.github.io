@@ -3,11 +3,6 @@ title: Video Interaction Guidance
 type: landing
 show_date: false
 
-image:
-  placement: 1
-  focal_point: 'center'
-  preview_only: false
-  filename: assets/media/camera.png
 
 sections:
   - block: markdown
@@ -85,6 +80,11 @@ sections:
 
         #### This video from Cornwall Council gives an overview of VIG and describes how it can enhance relationships. 
         {{< youtube WvPRdMZmj-Q >}}
+
+design:
+  background:
+    image: camera.png
+    image_darken: 0.2
 
 ---
 
