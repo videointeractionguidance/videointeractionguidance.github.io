@@ -3,15 +3,14 @@ title: Video Interaction Guidance
 type: landing
 show_date: false
 
-banner:
-  image: 'camera.png'
-  caption: 'Image credit: [**Burke**](https://github.com/burkebrunson/)'
-
 sections:
   - block: markdown
     content:
       title: Video Interaction Guidance
-      text: '![VIG Header](camera.png)'
+      text: |-
+
+        <p style="text-align: center"><img src="/media/camera.png"></p>
+
     design:
       placement: 1
       focal_point: 'Center'
