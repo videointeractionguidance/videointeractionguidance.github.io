@@ -3,6 +3,9 @@ title: Video Interaction Guidance
 type: landing
 show_date: false
 
+banner:
+  image: 'camera.png'
+  caption: 'Image credit: [**Burke**](https://github.com/burkebrunson/)'
 
 sections:
   - block: markdown
