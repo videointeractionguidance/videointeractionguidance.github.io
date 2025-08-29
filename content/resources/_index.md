@@ -4,8 +4,10 @@ type: landing
 show_date: false
 
 image:
-  filename: camera.png
+  placement: 1
+  focal_point: 'center'
   preview_only: false
+  filename: camera.png
 
 sections:
   - block: hero
