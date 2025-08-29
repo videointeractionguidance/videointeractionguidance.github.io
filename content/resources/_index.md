@@ -10,11 +10,9 @@ sections:
       text: |-
 
         <img src="/media/camera.png" class="centre">
-
-
     design:
-      placement: 1
-      focal_point: 'Center'
+      placement: 2
+  
   - block: markdown
     id: section-1
     content:
