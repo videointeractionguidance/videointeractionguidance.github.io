@@ -1,5 +1,5 @@
 ---
-title: DCS Learning
+title: About DCS
 type: landing
 show_date: false
 
@@ -10,6 +10,7 @@ sections:
       text: |-
 
         <img src="/media/camera.png" class="centre">
+        
     design:
       placement: 2
   

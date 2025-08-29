@@ -10,6 +10,7 @@ sections:
       text: |-
 
         <img src="/media/camera.png" class="centre">
+        
     design:
       placement: 2
   
