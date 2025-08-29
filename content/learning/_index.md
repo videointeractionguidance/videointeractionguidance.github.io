@@ -9,6 +9,7 @@ sections:
       title: Data Collection System
       text: |-
 
+        ![](camera.png)
         <img src="/media/camera.png" class="centre">
   
   - block: markdown
