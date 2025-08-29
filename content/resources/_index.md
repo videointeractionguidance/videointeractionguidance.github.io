@@ -5,7 +5,7 @@ show_date: false
 
 
 sections:
-  - block: markdown
+  - block: hero
     id: section-1
     content:
       title: Video Interaction Guidance
