@@ -7,8 +7,8 @@ main:
   - name: About VIG
     url: about
     weight: 20
-  - name: Resources
-    url: resources
+  - name: DCS Learning
+    url: learning
     weight: 30
   - name: Input Data
     url: input
