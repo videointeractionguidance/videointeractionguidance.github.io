@@ -6,11 +6,11 @@ show_date: false
 sections:
   - block: markdown
     content:
-      title: DCS Learning
+      title: Data Collection System
       text: |-
 
         <img src="/media/camera.png" class="centre">
-        
+
     design:
       placement: 2
   
