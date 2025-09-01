@@ -23,7 +23,10 @@ sections:
         ## How to Enter Data as a Practitioner
         This video introduces the DCS webform where practitioners enter client meeting data. It is a practical introduction to data input. 
 
-        {{< video src="media/vigdcs_practitioner.mp4" >}}
+        <video width="100%" height="400" controls>
+        <source src="/media/vigdcs_practitioner.mp4" type="video/mp4">
+        Your browser does not support the video tag.
+        </video>
 
         ## How to Access Data as a Manager
         This video explains how managers (or any person cssigned by an organisation) can access their service's data. 
