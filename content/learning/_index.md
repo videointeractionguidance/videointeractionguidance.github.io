@@ -1,5 +1,5 @@
 ---
-title: Learning
+title: Getting Started
 type: landing
 show_date: false
 
@@ -20,11 +20,14 @@ sections:
       title: Usage
       text: |-
 
-        ## Entering Data as a Practitioner
-        **Video Interaction Guidance (VIG)** is an intervention through which a practitioner aims to enhance communication within relationships. It works by engaging clients actively in a process of change towards realising their own hopes for a better future in their relationships with others who are important to them.
+        ## How to Enter Data as a Practitioner
+        This video introduces the DCS webform where practitioners enter client meeting data. It is a practical introduction to data input. 
 
-        ## Getting Data as a Manager
+        ## How to Access Data as a Manager
+        This video explains how managers (or any person cassigned by an organisation) can access their service's data. 
 
+        ## Recording Data Effectively 
+        This video highlights how practitioners can use the DCS to enhance VIG practice and record data to demonstrate impact.
 
         <br>
 
