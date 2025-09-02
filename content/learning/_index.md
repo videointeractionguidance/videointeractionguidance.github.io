@@ -68,7 +68,7 @@ sections:
         </a>
         </div>
         <div class="card-body p-0">
-        <iframe src="/uploads/vigdcs_getting-started_practitioner.pdf" 
+        <iframe src="/uploads/vigdcs_getting-started_manager.pdf" 
             width="100%" 
             height="600px" 
             style="border: 0;">
@@ -114,7 +114,7 @@ sections:
         </a>
         </div>
         <div class="card-body p-0">
-        <iframe src="/uploads/vigdcs_getting-started_practitioner.pdf" 
+        <iframe src="/uploads/vigdcs_data-policy.pdf" 
             width="100%" 
             height="600px" 
             style="border: 0;">
@@ -123,20 +123,16 @@ sections:
         </div>
         <br>
         <br>
-
-        ## Data Processing Agreement
-
-        <br>
         <div class="card mb-4">
         <div class="card-header d-flex justify-content-between">
         <h2 class="mb-0">Data Processing Agreement</h6>
-        <a href="/uploads/vigdcs_data-policy.pdf" 
+        <a href="/uploads/dpa.pdf" 
         download class="btn btn-sm btn-outline-primary">
         <i class="fas fa-download"></i> Download
         </a>
         </div>
         <div class="card-body p-0">
-        <iframe src="/uploads/vigdcs_getting-started_practitioner.pdf" 
+        <iframe src="/uploads/dpa.pdf" 
             width="100%" 
             height="600px" 
             style="border: 0;">
@@ -145,11 +141,24 @@ sections:
         </div>
         <br>
         <br>
- 
-        ## Data Flow Diagram
-        
-
-
+        <br>
+        <div class="card mb-4">
+        <div class="card-header d-flex justify-content-between">
+        <h2 class="mb-0">Data Flow Diagram</h6>
+        <a href="/uploads/dpa.pdf" 
+        download class="btn btn-sm btn-outline-primary">
+        <i class="fas fa-download"></i> Download
+        </a>
+        </div>
+        <div class="card-body p-0">
+        <iframe src="/uploads/vigdcs_data-flow.pdf" 
+            width="100%" 
+            height="600px" 
+            style="border: 0;">
+        </iframe>
+        </div>
+        </div>
+        <br>
         <br>
 
 ---
