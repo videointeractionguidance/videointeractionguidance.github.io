@@ -25,8 +25,11 @@ sections:
         <br>
         <div style="position: relative; width: 100%; height: 0; padding-bottom: 75%;">
         <iframe src="/media/uploads/vigdcs_getting-started_practitioner.pdf" 
-          style="position: absolute; width: 100%; height: 100%; border: 0;"
-          title="PDF Document">
+        width="100%" 
+        height="600px" 
+        style="border: 1px solid #ccc;"
+        title="PDF Document">
+        <p>Cannot display PDF. <a href="/media/uploads/vigdcs_getting-started_practitioner.pdf">Download instead</a>.</p>
         </iframe>
         </div>
 
