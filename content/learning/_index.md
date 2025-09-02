@@ -141,7 +141,6 @@ sections:
         </div>
         <br>
         <br>
-        <br>
         <div class="card mb-4">
         <div class="card-header d-flex justify-content-between">
         <h2 class="mb-0">Data Flow Diagram</h6>
@@ -158,9 +157,6 @@ sections:
         </iframe>
         </div>
         </div>
-        <br>
-        <br>
-          <br>
         <br>
         <br>
         <div class="card mb-4">
