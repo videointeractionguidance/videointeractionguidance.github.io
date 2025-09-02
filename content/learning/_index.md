@@ -20,12 +20,13 @@ sections:
       title: Usage
       text: |-
 
-        ## Getting Started as a Practitioner
+        ## Practitioners
+        Below are some useful documents and videos to help you get started with the DCS and entering VIG data. 
 
         <br>
         <div class="card mb-4">
         <div class="card-header d-flex justify-content-between">
-        <h6 class="mb-0">Getting Started Guide</h6>
+        <h6 class="mb-0">Getting Started: Practitioner Guide</h6>
         <a href="/uploads/vigdcs_getting-started_practitioner.pdf" 
         download class="btn btn-sm btn-outline-primary">
         <i class="fas fa-download"></i> Download
@@ -39,17 +40,45 @@ sections:
         </iframe>
         </div>
         </div>
-
-        ### How to Enter Data as a Practitioner
-        This video introduces the DCS webform where practitioners enter client meeting data. It is a practical introduction to data input. 
         <br>
+        <br>
+        
+        This video introduces the DCS webform where practitioners enter client meeting data. It is a practical introduction to data input. 
+        
+        <br>
+
         <video width="100%" height="400" controls>
         <source src="/media/vigdcs_practitioner.mp4" type="video/mp4">
         Your browser does not support the video tag.
         </video>
 
-        ## How to Access Data as a Manager
-        This video explains how managers (or any person cssigned by an organisation) can access their service's data. 
+        <br>
+        <br>
+
+        ## Managers and Data Processors
+        Below are some useful documents and videos to help managers learn how to access their data stored on the DCS. 
+
+        <br>
+        <div class="card mb-4">
+        <div class="card-header d-flex justify-content-between">
+        <h6 class="mb-0">Getting Started: Manager Guide</h6>
+        <a href="/uploads/vigdcs_getting-started_manager.pdf" 
+        download class="btn btn-sm btn-outline-primary">
+        <i class="fas fa-download"></i> Download
+        </a>
+        </div>
+        <div class="card-body p-0">
+        <iframe src="/uploads/vigdcs_getting-started_practitioner.pdf" 
+            width="100%" 
+            height="600px" 
+            style="border: 0;">
+        </iframe>
+        </div>
+        </div>
+        <br>
+        <br>
+
+        This video explains how managers (or any person assigned by an organisation) can access their service's data. 
 
         <br>
         {{% callout note %}}
@@ -72,18 +101,53 @@ sections:
       title: Information Governance
       text: |-
 
-        {{% callout note %}}
-        Before Inputting Data
-        {{% /callout %}}
-
-        You must have approval from your Information Governance (IG) team, and/or understand how data is managed in the DCS for you use the system. The documents below, and the consent forms available at the top of the page, will explain everything you need to know. Please share these with IG teams and anyone else working with VIG data through the DCS.
+        You must have approval from your Information Governance (IG) team, and/or understand how data is managed in the DCS before you use the system. The documents below, and the consent forms available at the top of the page, will explain everything you need to know. Please share these with IG teams and anyone else working with VIG data through the DCS.
 
         ## Data Policy
-        **Video Interaction Guidance (VIG)** is an intervention through which a practitioner aims to enhance communication within relationships. It works by engaging clients actively in a process of change towards realising their own hopes for a better future in their relationships with others who are important to them.
+        <br>
+        <div class="card mb-4">
+        <div class="card-header d-flex justify-content-between">
+        <h2 class="mb-0">Data Policy</h6>
+        <a href="/uploads/vigdcs_data-policy.pdf" 
+        download class="btn btn-sm btn-outline-primary">
+        <i class="fas fa-download"></i> Download
+        </a>
+        </div>
+        <div class="card-body p-0">
+        <iframe src="/uploads/vigdcs_getting-started_practitioner.pdf" 
+            width="100%" 
+            height="600px" 
+            style="border: 0;">
+        </iframe>
+        </div>
+        </div>
+        <br>
+        <br>
 
         ## Data Processing Agreement
+
+        <br>
+        <div class="card mb-4">
+        <div class="card-header d-flex justify-content-between">
+        <h2 class="mb-0">Data Processing Agreement</h6>
+        <a href="/uploads/vigdcs_data-policy.pdf" 
+        download class="btn btn-sm btn-outline-primary">
+        <i class="fas fa-download"></i> Download
+        </a>
+        </div>
+        <div class="card-body p-0">
+        <iframe src="/uploads/vigdcs_getting-started_practitioner.pdf" 
+            width="100%" 
+            height="600px" 
+            style="border: 0;">
+        </iframe>
+        </div>
+        </div>
+        <br>
+        <br>
  
-        ## Data Protection Impact Assessment
+        ## Data Flow Diagram
+        
 
 
         <br>
