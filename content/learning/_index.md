@@ -84,7 +84,7 @@ sections:
         {{% callout note %}}
         Coming Soon!
         {{% /callout %}}
-
+        <br>
         ## Recording Data Effectively 
         This video highlights how practitioners can use the DCS to enhance VIG practice and record data to demonstrate impact. It covers how to effectively score goals and use appropriate measures both at time one and time two meetings.
         <br>
@@ -103,7 +103,6 @@ sections:
 
         You must have approval from your Information Governance (IG) team, and/or understand how data is managed in the DCS before you use the system. The documents below, and the consent forms available at the top of the page, will explain everything you need to know. Please share these with IG teams and anyone else working with VIG data through the DCS.
 
-        ## Data Policy
         <br>
         <div class="card mb-4">
         <div class="card-header d-flex justify-content-between">
