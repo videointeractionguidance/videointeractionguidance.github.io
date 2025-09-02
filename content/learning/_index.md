@@ -23,17 +23,22 @@ sections:
         ## Getting Started as a Practitioner
 
         <br>
-        <div style="position: relative; width: 100%; height: 0; padding-bottom: 75%;">
-        <iframe src="/uploads/vigdcs_getting-started_practitioner.pdf" 
-        width="100%" 
-        height="600px" 
-        style="border: 1px solid #ccc;"
-        title="PDF Document">
-        <p>Cannot display PDF. <a href="/media/uploads/vigdcs_getting-started_practitioner.pdf">Download instead</a>.</p>
+        <div class="card mb-4">
+        <div class="card-header d-flex justify-content-between">
+        <h6 class="mb-0">Getting Started Guide</h6>
+        <a href="/uploads/vigdcs_getting-started_practitioner.pdf" 
+        download class="btn btn-sm btn-outline-primary">
+        <i class="fas fa-download"></i> Download
+        </a>
+        </div>
+        <div class="card-body p-0">
+        <iframe src="/media/uploads/vigdcs_getting-started_practitioner.pdf" 
+            width="100%" 
+            height="700px" 
+            style="border: 0;">
         </iframe>
         </div>
-
-        <br>
+        </div>
 
         ### How to Enter Data as a Practitioner
         This video introduces the DCS webform where practitioners enter client meeting data. It is a practical introduction to data input. 
@@ -66,6 +71,12 @@ sections:
     content:
       title: Information Governance
       text: |-
+
+        {{% callout note %}}
+        Before Inputting Data
+        {{% /callout %}}
+
+        You must have approval from your Information Governance (IG) team, and/or understand how data is managed in the DCS for you use the system. The documents below, and the consent forms available at the top of the page, will explain everything you need to know. Please share these with IG teams and anyone else working with VIG data through the DCS.
 
         ## Data Policy
         **Video Interaction Guidance (VIG)** is an intervention through which a practitioner aims to enhance communication within relationships. It works by engaging clients actively in a process of change towards realising their own hopes for a better future in their relationships with others who are important to them.
