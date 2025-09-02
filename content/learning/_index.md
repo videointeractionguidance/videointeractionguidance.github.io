@@ -20,9 +20,21 @@ sections:
       title: Usage
       text: |-
 
-        ## How to Enter Data as a Practitioner
-        This video introduces the DCS webform where practitioners enter client meeting data. It is a practical introduction to data input. 
+        ## Getting Started as a Practitioner
 
+        <br>
+        <div style="position: relative; width: 100%; height: 0; padding-bottom: 75%;">
+        <iframe src="/media/pdfsuploads/vigdcs_getting-started_practitioner.pdf" 
+          style="position: absolute; width: 100%; height: 100%; border: 0;"
+          title="PDF Document">
+        </iframe>
+        </div>
+
+        <br>
+
+        ### How to Enter Data as a Practitioner
+        This video introduces the DCS webform where practitioners enter client meeting data. It is a practical introduction to data input. 
+        <br>
         <video width="100%" height="400" controls>
         <source src="/media/vigdcs_practitioner.mp4" type="video/mp4">
         Your browser does not support the video tag.
@@ -31,8 +43,14 @@ sections:
         ## How to Access Data as a Manager
         This video explains how managers (or any person cssigned by an organisation) can access their service's data. 
 
+        <br>
+        {{% callout note %}}
+        Coming Soon!
+        {{% /callout %}}
+
         ## Recording Data Effectively 
         This video highlights how practitioners can use the DCS to enhance VIG practice and record data to demonstrate impact. It covers how to effectively score goals and use appropriate measures both at time one and time two meetings.
+        <br>
 
         {{% callout note %}}
         Coming Soon!
