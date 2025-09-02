@@ -85,7 +85,7 @@ sections:
         Coming Soon!
         {{% /callout %}}
         <br>
-        
+
         ## Recording Data Effectively 
         This video highlights how practitioners can use the DCS to enhance VIG practice and record data to demonstrate impact. It covers how to effectively score goals and use appropriate measures both at time one and time two meetings.
         <br>
@@ -160,6 +160,26 @@ sections:
         </div>
         <br>
         <br>
-
+          <br>
+        <br>
+        <br>
+        <div class="card mb-4">
+        <div class="card-header d-flex justify-content-between">
+        <h2 class="mb-0">Data Protection Impact Assessment</h6>
+        <a href="/uploads/vigdcs_dpia_mini_assessment.pdf" 
+        download class="btn btn-sm btn-outline-primary">
+        <i class="fas fa-download"></i> Download
+        </a>
+        </div>
+        <div class="card-body p-0">
+        <iframe src="/uploads/vigdcs_dpia_mini_assessment.pdf" 
+            width="100%" 
+            height="600px" 
+            style="border: 0;">
+        </iframe>
+        </div>
+        </div>
+        <br>
+        <br>
 ---
 
