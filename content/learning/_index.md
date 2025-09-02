@@ -24,7 +24,7 @@ sections:
 
         <br>
         <div style="position: relative; width: 100%; height: 0; padding-bottom: 75%;">
-        <iframe src="/media/uploads/vigdcs_getting-started_practitioner.pdf" 
+        <iframe src="/uploads/vigdcs_getting-started_practitioner.pdf" 
         width="100%" 
         height="600px" 
         style="border: 1px solid #ccc;"
