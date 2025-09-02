@@ -32,9 +32,9 @@ sections:
         </a>
         </div>
         <div class="card-body p-0">
-        <iframe src="/media/uploads/vigdcs_getting-started_practitioner.pdf" 
+        <iframe src="/uploads/vigdcs_getting-started_practitioner.pdf" 
             width="100%" 
-            height="700px" 
+            height="600px" 
             style="border: 0;">
         </iframe>
         </div>
