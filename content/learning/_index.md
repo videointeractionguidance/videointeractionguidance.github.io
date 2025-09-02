@@ -85,6 +85,7 @@ sections:
         Coming Soon!
         {{% /callout %}}
         <br>
+        
         ## Recording Data Effectively 
         This video highlights how practitioners can use the DCS to enhance VIG practice and record data to demonstrate impact. It covers how to effectively score goals and use appropriate measures both at time one and time two meetings.
         <br>
