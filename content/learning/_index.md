@@ -81,7 +81,7 @@ sections:
         ## Managers and Data Processors
         Below are some useful documents and videos to help managers learn how to access their data stored on the DCS. 
 
-       <ol>
+        <ol>
         <li>
           <strong>Contact AVIGuk </strong>
           <p>AVIGuk will support your organisation to obtain approval from
@@ -102,7 +102,7 @@ sections:
           <strong>Sign-up for a Kobo Account</strong>
           <p>Managers need to have a Kobo account for their service's
         data to be shared with them. Accounts should be created on
-        Kobo's EU server: [https://eu.kobotoolbox.org/accounts/](https://eu.kobotoolbox.org/accounts/)
+        Kobo's EU server: https://eu.kobotoolbox.org/accounts/
         signup/.</p>
         </li>
         <li>
