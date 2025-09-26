@@ -27,6 +27,16 @@ font-weight: 600;
   width: 50%;
 }
 
+.medium-zoom-image {
+  cursor: zoom-in;
+  transition: transform .3s cubic-bezier(.2, 0, .2, 1) !important;
+  display: block !important;
+  margin-left: auto !important;
+  margin-right: auto !important;
+  width: 300px !important; /* Fixed width */
+  max-width: 90% !important; /* Responsive */
+  height: auto !important;
+}
 
 strong { color: #292929; }
 
