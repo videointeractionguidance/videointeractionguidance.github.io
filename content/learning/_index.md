@@ -23,6 +23,50 @@ sections:
         ## Practitioners
         Below are some useful documents and videos to help you get started with the DCS and entering VIG data. 
 
+
+        <ol class="alternating-colors">
+        <li>
+          <strong>Contact AVIGuk </strong>
+          <p>AVIG will support your organisation with training on the use of the
+        DCS. They will also ensure that your Information Governance
+        teams approve your use of the DCS. Contact the DCS team at
+        dcs@videointeractionguidance.net.</p>
+        </li>
+        <li>
+          <strong>Complete Training</strong>
+          <p>AVIGuk provides self-guided training on DCS use through available
+        on the dcs landing pages. There are also online workshops held
+        throughout the year. If your organisation has a number of
+        practitioners we can arrange a bespoke course. Our training
+        covers important information on data security and how to get the
+        most out of using the DCS with clients.</p>
+        </li>
+        <li>
+          <strong>Sign Practitioner Consent Form</strong>
+          <p>It is important that you consent to some personal data, like name
+        and work email address, being stored on DCS. You should also
+        read and acknowledge the Terms and Conditions of Use. These
+        are combined in one online form that only needs to be completed
+        once.</p>
+        </li>
+        <li>
+          <strong>Obtain Client Consent</strong>
+          <p>It is important that clients understand what data will be stored in
+        the DCS and that they consent to this. Signed paper copies of
+        consent forms are stored by your organisation, separate to the
+        DCS.</p>
+        </li>
+        <li>
+          <strong>Input Data</strong>
+          <p>You are ready to use the DCS – a safe, ﬂexible and eﬃcient tool to
+        support your VIG practice and evidence its eﬃcacy.</p>
+        </li>
+        </ol>
+        
+      
+        
+
+
         <br>
         <div class="card mb-4">
         <div class="card-header d-flex justify-content-between">
