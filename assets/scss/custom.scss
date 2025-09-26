@@ -53,8 +53,9 @@ ol {
             content: counter(steps);
             background: #618fcb;
             color: white;
-            width: 1.2em;
-            height: 1.2em;
+            font-weight: bold;
+            width: 1.4em;
+            height: 1.4em;
             border-radius: 50%;
             display: inline-grid;
             place-items: center;
@@ -68,7 +69,4 @@ ol {
             padding-left: 2rem; /* Less padding for nested lists */
         }
         
-        ol ol li::before {
-            background: darkorchid;
-            left: -1.8rem;
-        }
+      

@@ -17,11 +17,11 @@ sections:
   - block: markdown
     id: section-1
     content:
-      title: Usage
+      title: Setup & Usage
       text: |-
 
         ## Practitioners
-        Below are some useful documents and videos to help you get started with the DCS and entering VIG data. 
+        Practitioners should follow these steps to get setup:. 
 
 
         <ol>
@@ -66,7 +66,7 @@ sections:
         <br>
         <br>
         
-        This video introduces the DCS webform where practitioners enter client meeting data. It is a practical introduction to data input. 
+        ### This video is from a live demonstration of the DCS delivered on 3 September 2025. It introduces the DCS webform where practitioners enter client meeting data.
         
         <br>
 
