@@ -38,12 +38,12 @@ strong { color: #292929; }
 
 
 ol {
-  list-style: none;
   counter-reset: steps;
   list-style-position: outside;
 }
 ol li {
   counter-increment: steps;
+   margin-bottom: 5px;
 }
 ol li::before {
   content: counter(steps);
