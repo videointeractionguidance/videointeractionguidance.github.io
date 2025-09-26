@@ -63,7 +63,8 @@ sections:
         </li>
         </ol>
         
-      
+        <br>
+        <br>
         
         This video introduces the DCS webform where practitioners enter client meeting data. It is a practical introduction to data input. 
         
@@ -80,23 +81,40 @@ sections:
         ## Managers and Data Processors
         Below are some useful documents and videos to help managers learn how to access their data stored on the DCS. 
 
-        <br>
-        <div class="card mb-4">
-        <div class="card-header d-flex justify-content-between">
-        <h6 class="mb-0">Getting Started: Manager Guide</h6>
-        <a href="/uploads/vigdcs_getting-started_manager.pdf" 
-        download class="btn btn-sm btn-outline-primary">
-        <i class="fas fa-download"></i> Download
-        </a>
-        </div>
-        <div class="card-body p-0">
-        <iframe src="/uploads/vigdcs_getting-started_manager.pdf" 
-            width="100%" 
-            height="600px" 
-            style="border: 0;">
-        </iframe>
-        </div>
-        </div>
+       <ol>
+        <li>
+          <strong>Contact AVIGuk </strong>
+          <p>AVIGuk will support your organisation to obtain approval from
+          Information Governance, with training on the use of the DCS
+          for practitioners, and data management for managers.
+          Contact the DCS team at dcs@videointeractionguidance.net</p>
+        </li>
+        <li>
+          <strong>Information Governance</strong>
+          <p>Organisations have different information governance
+          requirements to ensure their client data is protected. AVIGuk
+          will help you to meet those requirments, including completing
+          forms and meeting with IG teams. Our data policy, DPIA
+          assessment, our data processing agreement with Kobo and
+          client consent forms are all available on the DCS webpages.</p>
+        </li>
+        <li>
+          <strong>Sign-up for a Kobo Account</strong>
+          <p>Managers need to have a Kobo account for their service's
+        data to be shared with them. Accounts should be created on
+        Kobo's EU server: [https://eu.kobotoolbox.org/accounts/](https://eu.kobotoolbox.org/accounts/)
+        signup/.</p>
+        </li>
+        <li>
+          <strong>Complete Training</strong>
+          <p>AVIGuk provides self-guided training on DCS use through the
+          learning platform. There are also online workshops held
+          throughout the year. Our training covers important information
+          on data security and how to manage your data effectively to
+          support your practitioners and service evaluations.</p>
+        </li>
+        </ol>
+
         <br>
         <br>
 
