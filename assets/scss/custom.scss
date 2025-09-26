@@ -37,28 +37,26 @@ font-weight: 600;
 strong { color: #292929; }
 
 
-ol { 
-  line-height: 1.6;
-  list-style-type: none;
-  counter-reset: section;
-  margin-left: 3rem;
+ol {
+  list-style: none;
+  counter-reset: steps;
 }
-li {
-    counter-increment: section;
-    margin-top: 2rem;
+ol li {
+  counter-increment: steps;
 }
-li:before {
-    content: counters(section,"");
-    border: 2px solid #000;
-    border-radius: 50%;
-    display: inline-block;
-    float: left;
-    width: 3.5rem;
-    height: 3rem;
-    text-align: center;
-    padding-top: .25rem;
-    font-weight: 700;
-    margin-left: -5rem;
-    margin-right: 1rem;
-    background: rgba(0,0,0,0.025);
+ol li::before {
+  content: counter(steps);
+  margin-right: 0.5rem;
+  background: #ff6f00;
+  color: white;
+  width: 1.2em;
+  height: 1.2em;
+  border-radius: 50%;
+  display: inline-grid;
+  place-items: center;
+  line-height: 1.2em;
+  list-style-position: outside;
+}
+ol ol li::before {
+  background: darkorchid;
 }
