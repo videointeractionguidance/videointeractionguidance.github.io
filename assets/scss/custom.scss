@@ -40,6 +40,7 @@ strong { color: #292929; }
 ol {
   list-style: none;
   counter-reset: steps;
+  list-style-position: outside;
 }
 ol li {
   counter-increment: steps;
@@ -55,7 +56,6 @@ ol li::before {
   display: inline-grid;
   place-items: center;
   line-height: 1.2em;
-  list-style-position: outside;
 }
 ol ol li::before {
   background: darkorchid;
