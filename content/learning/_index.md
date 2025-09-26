@@ -81,7 +81,7 @@ sections:
         <br>
 
         ## Managers and Data Processors
-        Below are some useful documents and videos to help managers learn how to access their data stored on the DCS. 
+        To set up their services on the DCS and to ensure they can access their data, managers should: 
 
         <ol>
         <li>
