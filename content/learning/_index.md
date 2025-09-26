@@ -24,7 +24,7 @@ sections:
         Below are some useful documents and videos to help you get started with the DCS and entering VIG data. 
 
 
-        <ol class="alternating-colors">
+        <ol>
         <li>
           <strong>Contact AVIGuk </strong>
           <p>AVIG will support your organisation with training on the use of the
@@ -64,28 +64,6 @@ sections:
         </ol>
         
       
-        
-
-
-        <br>
-        <div class="card mb-4">
-        <div class="card-header d-flex justify-content-between">
-        <h6 class="mb-0">Getting Started: Practitioner Guide</h6>
-        <a href="/uploads/vigdcs_getting-started_practitioner.pdf" 
-        download class="btn btn-sm btn-outline-primary">
-        <i class="fas fa-download"></i> Download
-        </a>
-        </div>
-        <div class="card-body p-0">
-        <iframe src="/uploads/vigdcs_getting-started_practitioner.pdf" 
-            width="100%" 
-            height="600px" 
-            style="border: 0;">
-        </iframe>
-        </div>
-        </div>
-        <br>
-        <br>
         
         This video introduces the DCS webform where practitioners enter client meeting data. It is a practical introduction to data input. 
         
