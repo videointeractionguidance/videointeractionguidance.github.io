@@ -9,9 +9,7 @@ sections:
       title: Getting Started
       text: |-
         
-        <div class="image-container">
-        <img src="learning.png" class="centre" alt="description">
-        </div>
+        {{< figure src="learning.png" class="centre" >}}
 
     design:
       placement: 2
