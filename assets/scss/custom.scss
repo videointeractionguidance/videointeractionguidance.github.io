@@ -38,26 +38,37 @@ strong { color: #292929; }
 
 
 ol {
-  list-style: none;
-  counter-reset: steps;
-}
-ol li {
-  counter-increment: steps;
-  list-style-position: outside;
-  margin-bottom: 5px;
-}
-ol li::before {
-  content: counter(steps);
-  margin-right: 0.5rem;
-  background: #ff6f00;
-  color: white;
-  width: 1.2em;
-  height: 1.2em;
-  border-radius: 50%;
-  display: inline-grid;
-  place-items: center;
-  line-height: 1.2em;
-}
-ol ol li::before {
-  background: darkorchid;
-}
+            list-style: none;
+            counter-reset: steps;
+            padding-left: 2.5rem; /* Space for the absolutely positioned markers */
+        }
+        
+        ol li {
+            counter-increment: steps;
+            margin-bottom: 5px;
+            position: relative;
+        }
+        
+        ol li::before {
+            content: counter(steps);
+            background: #618fcb;
+            color: white;
+            width: 1.2em;
+            height: 1.2em;
+            border-radius: 50%;
+            display: inline-grid;
+            place-items: center;
+            line-height: 1.2em;
+            position: absolute;
+            left: -2rem; /* Position outside the list item */
+            top: 0;
+        }
+        
+        ol ol {
+            padding-left: 2rem; /* Less padding for nested lists */
+        }
+        
+        ol ol li::before {
+            background: darkorchid;
+            left: -1.8rem;
+        }
