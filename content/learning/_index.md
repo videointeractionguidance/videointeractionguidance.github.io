@@ -21,7 +21,7 @@ sections:
       text: |-
 
         ## Practitioners
-        Practitioners should follow these steps to get setup:. 
+        Practitioners should follow these steps to begin inputting data:
 
 
         <ol>
@@ -66,7 +66,7 @@ sections:
         <br>
         <br>
         
-        ### This video is from a live demonstration of the DCS delivered on 3 September 2025. It introduces the DCS webform where practitioners enter client meeting data.
+        #### This video is from a live demonstration of the DCS delivered on 3 September 2025. It introduces the DCS webform where practitioners enter client meeting data.
         
         <br>
 
@@ -75,6 +75,8 @@ sections:
         Your browser does not support the video tag.
         </video>
 
+        <br>
+        <br>
         <br>
         <br>
 
